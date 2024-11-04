@@ -181,7 +181,7 @@ Este projeto foi desenvolvido com o intuito de aplicar os conceitos aprendidos d
 
 - Badge
 
-[![Badge](docs/src/img/badge.png)](https://cursos.alura.com.br/user/vampirow)
+[![Badge](docs/src/img/badge.png)](https://cursos.alura.com.br/user/VARISTON)
 
 
 
